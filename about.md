@@ -4,9 +4,9 @@ title: Tentang Saya
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}assets / adri.gif" title = "Gambar Profil" class = "profile">
+<img src="{{ site.baseurl }}assets/adri.gif" title = "Gambar Profil" class = "profile">.
 
-Hai Nama saya Adri Deyaka Seorang Mahasiswa semester 5 Jurusan Sistem informasi  (https://github.com/bencentra/centrarium).
+Hai Nama saya Adri Deyaka Seorang Mahasiswa semester 5 Jurusan Sistem informasi .
 
 This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
 
