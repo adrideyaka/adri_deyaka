@@ -1,7 +1,11 @@
 ---
 layout: post
-title:  "Gis"
+title:  "Welcome to my blog"
 date:   2018-11-19
 author: adrideyaka
-categories: Dummy
+categories: welcome
 ---
+Hai..
+Assalamualaikum wr wb
+blog ini adalah berisi tentang materi dan pembahasan tentang mata kuliah geografi information system.
+pada jurusan sistem informasi..
