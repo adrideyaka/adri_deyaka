@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to my blog"
 date:   2018-11-19
 author: adrideyaka
-categories: dummi
+categories: dummy
 ---
 Hai..
 Assalamualaikum wr wb
