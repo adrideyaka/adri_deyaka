@@ -10,10 +10,10 @@ exclude:
 title: Centrarium
 subtitle: "A simple yet classy theme for your Jekyll website or blog"
 email: blcentra@gmail.com
-name: Ben Centra
+name: Adri Deyaka
 description: > 
   A simple yet classy theme for your Jekyll website or blog.
-baseurl: "/centrarium/" # the subpath of your site, e.g. /blog/
+baseurl: "https://adrideyaka.github.io/centrarium/" # the subpath of your site, e.g. /blog/
 url: "http://bencentra.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
