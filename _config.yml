@@ -16,7 +16,7 @@ description: >
 baseurl: "https://adrideyaka.github.io/blog/" # the subpath of your site, e.g. /blog/
 url: "http://bencentra.github.io" # the base hostname & protocol for your site
 cover: "assets/sese.jpg"
-logo: "assets/logo.png"
+logo: "assets/logo1.png"
 
 # Build settings
 markdown: kramdown
